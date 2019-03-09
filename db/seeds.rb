@@ -26,4 +26,3 @@ item3 = Item.new(
   image_url: "http://image.rakuten.co.jp/atmos-girls/cabinet/reebok/v47514-1.jpg"
 )
 item3.save
-bin/rails db:seed
